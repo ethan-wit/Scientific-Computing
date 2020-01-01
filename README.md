@@ -17,3 +17,7 @@ Algorithmic experiment design and measuring priming effects.
 #### Homework 6:
 
 Time series analysis of EEG data.
+
+#### Final Project
+
+Longitudinal regression model predicting political violence.
