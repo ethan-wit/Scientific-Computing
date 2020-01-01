@@ -13,3 +13,7 @@ Randomization of experimental conditions and recall performance correlation anal
 #### Homework 5:
 
 Algorithmic experiment design and measuring priming effects.
+
+#### Homework 6:
+
+Time series analysis of EEG data.
